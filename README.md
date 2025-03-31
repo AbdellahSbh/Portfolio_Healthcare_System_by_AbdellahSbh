@@ -37,7 +37,6 @@ This is a C++ backend project using the Crow web framework. It simulates a simpl
 
 2. **Compile the project**
 
-```bash
 g++ app/main.cpp -o server -std=c++17 -pthread
 
 Run the server
@@ -45,3 +44,12 @@ Run the server
 The server will run on http://localhost:18080
 
 You can use Postman, curl, or browser (for GET requests)
+
+License
+This project was created as part of Lancaster University Leipzig’s Programming Clinic module – Michaelmas Term 2025.
+
+
+
+
+
+
