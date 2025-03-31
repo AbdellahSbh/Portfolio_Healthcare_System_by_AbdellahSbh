@@ -45,7 +45,6 @@ The server will run on http://localhost:18080
 
 You can use Postman, curl, or browser (for GET requests)
 
-License
 This project was created as part of Lancaster University Leipzig’s Programming Clinic module – Michaelmas Term 2025.
 
 
